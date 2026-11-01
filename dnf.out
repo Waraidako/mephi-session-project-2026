@@ -1,0 +1,6 @@
+ID     | Command line                                                              | Date and time    | Action(s)      | Altered
+--------------------------------------------------------------------------------------------------------------------------------
+     4 | install -y policycoreutils-python                                         | 2026-11-01 19:20 | Install        |    8   
+     3 | install -y nginx libcap-ng-utils dnf-plugins-core libcap git acl parted e | 2026-11-01 19:19 | Install        |   15   
+     2 | upgrade -y                                                                | 2026-11-01 19:17 | I, O, U        |  148 E<
+     1 |                                                                           | 2026-11-01 17:42 | Install        |  555 >E

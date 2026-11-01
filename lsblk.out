@@ -1,0 +1,10 @@
+NAME   FSTYPE  FSVER            LABEL              UUID                                 FSAVAIL FSUSE% MOUNTPOINTS
+sda                                                                                                    
+├─sda1                                                                                                 
+├─sda2 ext4    1.0                                 7e6bfee3-dc20-4716-a559-7b34c0a22bf2  632.1M    28% /boot
+├─sda3 swap    1                                   7cd2cf16-480f-4c8a-80ee-1475c7370086                [SWAP]
+└─sda4 ext4    1.0                                 1493456f-831e-4878-a61b-35cfb3cc2fed   12.8G    17% /
+sdb                                                                                                    
+└─sdb1 ext4    1.0              MEPHI_WEB          d81b4f10-8693-45f3-a831-510f27ffef56    9.2G     0% /mephi-web
+sr0    iso9660 Joliet Extension redos-DVD-x86_64-8 2026-07-16-07-41-10-00                              
+zram0                                                                                                  [SWAP]
